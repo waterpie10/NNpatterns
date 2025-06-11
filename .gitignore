@@ -1,0 +1,12 @@
+# Virtual Environment
+pattern_recognition_venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints folder
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
